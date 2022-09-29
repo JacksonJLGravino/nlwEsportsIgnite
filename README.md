@@ -4,7 +4,6 @@
 
 <img src="Capa.png">
 
-</br>
 
 ## 🚀 Tecnologias
 
@@ -27,8 +26,6 @@
 - [ReactNative](https://nodejs.org/en/)
 - [Expo](https://nodejs.org/en/)
 
-</br>
-</br>
 
 ## 💻 projeto
 
