@@ -1,6 +1,6 @@
 # NLW eSports Explorer
 
-<h3>Projeto realizado no Evanto Nex Level Week eSports Trilha Ignite, onde foi criado um site e um app mobile para publicar anúncio de interesses em jogos para encontrar outros jogadores</h3>
+<p>Projeto realizado no Evanto Nex Level Week eSports Trilha Ignite, onde foi criado um site e um app mobile para publicar anúncio de interesses em jogos para encontrar outros jogadores</p>
 
 <img src="Capa.png">
 
